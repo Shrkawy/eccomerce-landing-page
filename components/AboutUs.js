@@ -9,7 +9,7 @@ const AboutUs = () => {
       <div className="relative ">
         <div className="-m-10 lg:right-0 lg:absolute lg:w-3/4 lg:-top-48 lg:h-96">
           <Image
-            src="/image.jpg"
+            src="/Image.jpg"
             layout="responsive"
             width={1022}
             height={853}
