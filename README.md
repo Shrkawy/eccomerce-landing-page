@@ -4,7 +4,7 @@
 
 It's an SSG, I make it for practice using Next.js, Tailwindcss
 
-[Demo](!https://eccomerce-landing-page.vercel.app/)
+[Demo](https://eccomerce-landing-page.vercel.app/)
 
 ## Contributing
 
